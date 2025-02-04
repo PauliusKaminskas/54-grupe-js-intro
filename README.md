@@ -8,13 +8,43 @@
 
 ### Kintamieji (variables)
 
+- number
+- string
+- boolean
+- array
+- object
+
 ### Salygos (conditoonals)
+
+- if
+- switch
+- ternary
+- boolean logika (and, or)
 
 ### Ciklai (loops)
 
+- for
+- for-of
+- for-in
+- while
+- cikliski array metodai
+
 ### Funkcijos/klases (funkctions/classes)
 
-### Ivykiai (events, event listeners)
+- function
+- arrow function
+- class (oop)
+- number metodai
+- string metodai
+- array metodai
+- object metodai
+
+### Ivykiai, narsykle (events, event listeners)
+
+- DOM
+- event listeners
+- fetch
+- localStorage
 
 # A first-level heading
 
@@ -38,4 +68,5 @@ Labas `rytas`, Lietuva!
 function sum(a+b)
 return a+b;
 ```
+
 - [ ]
