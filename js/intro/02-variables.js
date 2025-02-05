@@ -7,8 +7,8 @@ Iniciavimo budai:
 - var (nenaudoti, nebent zinai ka darai)
 
 Duomenu tipai:
--number
--string (tekstas, simboliu eilute/grandinele)
+- number
+- string (tekstas, simboliu eilute/grandinele)
 - boolean (logine reiksme)
 - array (sarasas, list'as, masyvas, matrica)
 - object (objektas)
