@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "string": "node --watch js/intro/variables/07-string.js",
     "numbers": "node --watch js/intro/variables/06-numbers.js",
     "function": "node --watch js/intro/05-function.js",
     "for": "node --watch js/intro/04-for.js",
