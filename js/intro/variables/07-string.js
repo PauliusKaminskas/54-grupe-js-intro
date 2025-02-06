@@ -68,3 +68,55 @@ const html5 =
 \t<p>Pomidoras.</p>\r\n\
 </div>";
 console.log(html5);
+
+// "Kabutes: ' (vienguba)" + ' ir " (dviguba).
+
+const k3 = "Kabutes: ' (vienguba) ir \" (dviguba).";
+console.log(k3);
+const k4 = "Kabutes: ' (vienguba) ir \" (dviguba).";
+console.log(k4);
+const k5 = "Kabutes: ' (vienguba) ir \" (dviguba).";
+console.log(k5);
+
+console.log();
+
+const b = "labas";
+console.log(b);
+
+// Backtick ` naudojimas
+const bHtml = `
+<div>
+<h1>Labas rytas, Lietuva!</h1>
+<p>Pirmadienis.</p>
+<p>Pomidoras.</p>
+</div>`;
+console.log(bHtml);
+
+// Kabute: ` (backtick).
+const backtickBedute1 = "Kabute: ` backtick";
+const backtickBedute2 = "Kabute: ` backtick";
+const backtickBedute3 = "Kabute: ` backtick";
+console.log(backtickBedute1);
+console.log(backtickBedute2);
+console.log(backtickBedute3);
+
+const luckyNumber = 13;
+
+// My lucky number is 13.
+const lucky = "My lucky number is " + luckyNumber + ".";
+console.log(lucky);
+
+const lucky2 = `My lucky number is ${luckyNumber}.`;
+console.log(lucky2);
+
+const chuckBack = `Hi, my name is ${firstname} and I am ${age} years old.`;
+console.log(chuckBack);
+
+// Price: $ 45.00
+const price = 45;
+const priceStr = `Price: $${price}.00`;
+console.log(priceStr);
+
+// C:\Documents\troliai\reikia\namie
+const troliai = "C:\\Documents\\troliai\\rekia\\namie";
+console.log(troliai);
