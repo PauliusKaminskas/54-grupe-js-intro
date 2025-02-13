@@ -5,12 +5,14 @@ ciklas (cikliskumas) - kazkas kartojasi;
 - gali buti neribotas kiekis kartu
 */
 
-console.log('START');
+console.log("START");
 
-
-for (let i = 1; i<=10; i=i+1) {
-console.log(i, 'Labas rytas, Lietuva!');
+for (let i = 1; i <= 10; i = i + 1) {
+  console.log(i, "Labas rytas, Lietuva!");
 }
 
-console.log('FINISH');
+console.log("FINISH");
 
+for (let x = 100; x <= 200; x = x + 2) {
+  console.log(x);
+}
